@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
 I design, automate, and operate **cloud-native infrastructure** with a strong focus on **reliability, scalability, and delivery speed**.  
 My work sits at the intersection of **infrastructure, CI/CD, and production operations**.
@@ -88,8 +88,8 @@ My work sits at the intersection of **infrastructure, CI/CD, and production oper
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishaldk18-black?style=for-the-badge&logo=github)](https://github.com/vishaldk18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/vishalkhairnar18/))
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalkhairnar1802@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalkhairnar18/)
+[![Email](https://img.shields.io/badge/Email-vishalkhairnar1802@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalkhairnar1802@gmail.com)
 
 </div>
 
@@ -97,7 +97,7 @@ My work sits at the intersection of **infrastructure, CI/CD, and production oper
 
 <div align="center">
 
-💡 *“Infrastructure should be boring, reliable, and automated.”*
+💡 *“Build fast, deploy safely, operate reliably.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishaldk18&style=flat-square)
 
