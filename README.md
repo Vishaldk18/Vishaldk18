@@ -21,32 +21,45 @@ My work sits at the intersection of **infrastructure, CI/CD, and production oper
 
 ---
 
-## 🛠️ Core DevOps Skills
+## 🛠️ Tech Stack
 
-### **Cloud & Infrastructure**
-- AWS (EC2, VPC, IAM, EKS, S3, RDS)
-- Infrastructure as Code (Terraform)
-- Linux & networking fundamentals
+### **Programming & Scripting**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+</p>
+
+### **Cloud Platforms**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
 
 ### **Containers & Orchestration**
-- Docker (images, volumes, networking)
-- Kubernetes (deployments, services, ingress)
-- Helm (packaging & release management)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40"/>
+</p>
 
 ### **CI/CD & Automation**
-- GitHub Actions & Jenkins
-- Git-based workflows
-- Build, test, deploy pipelines
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
-### **Observability & Reliability**
-- Prometheus & Grafana
-- Centralized logging (ELK)
-- Health checks, alerts, SLO thinking
+### **Infrastructure as Code & Configuration**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/>
+</p>
 
-### **Scripting & Tooling**
-- Bash & Python
-- Git & GitHub
-- YAML, JSON
+### **Monitoring, Logging & Observability**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+</p>
 
 ---
 
@@ -70,12 +83,13 @@ My work sits at the intersection of **infrastructure, CI/CD, and production oper
 
 ---
 
-## 🌐 Links
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishaldk18-black?style=for-the-badge&logo=github)](https://github.com/vishaldk18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/vishalkhairnar18/))
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalkhairnar1802@gmail.com)
 
 </div>
 
