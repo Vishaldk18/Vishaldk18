@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vishal | DevOps Engineer ⚙️☁️
+# Vishal Khairnar | DevOps Engineer ⚙️☁️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AA1DD&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Cloud+Infrastructure+%26+Automation;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Observability+%7C+SRE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AA1DD&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+%26+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Ansible;CI%2FCD+%7C+Observability+%7C+SRE)](https://git.io/typing-svg)
 
 </div>
 
